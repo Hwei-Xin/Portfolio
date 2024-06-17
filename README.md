@@ -16,3 +16,7 @@
 - Detected unclaimed warranty claims and increased the revenue for Aftersales by 80%
 - Closed the gap between Distributors and Branches/Dealers to meet warranty needs by 70%
 - Identified and improved broken processes by ensuring 100% compliance of Bracnhes/Dealers with warranty operation
+
+
+
+![photo_2023-02-04_21-59-00](https://github.com/Hwei-Xin/Portfolio/assets/146412796/d9a29efb-9ad5-41e9-be05-600096f5c745)
